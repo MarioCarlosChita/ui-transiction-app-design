@@ -11,7 +11,7 @@ this is a simple ui project with some cool animation of expanding the items. the
 <img src = "https://github.com/MarioCarlosChita/ui-transiction-app-design/blob/main/assets/not-expanded.png" width = "320">
 
 
-## Home screen  wallet list
+## Wallet list creen  
 <img src ="https://github.com/MarioCarlosChita/ui-transiction-app-design/blob/main/assets/wallet-list.png"
  width = "320">
 
