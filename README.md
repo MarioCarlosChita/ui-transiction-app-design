@@ -1,16 +1,20 @@
-# animation_opacity
+# Home Screen
 
-A new Flutter project.
+## UI bank App from dribble
+this is a simple ui project with some cool animation of expanding the items. the ui was copied from dribble.  feel free to contribute, to fork and to sugest.thanks
 
-## Getting Started
+## Home screen expanded
+<img src="https://github.com/MarioCarlosChita/ui-transiction-app-design/blob/main/assets/expanded.png" width="320">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Home screen not expanded
+<img src = "https://github.com/MarioCarlosChita/ui-transiction-app-design/blob/main/assets/not-expanded.png" width = "320">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Home screen  wallet list
+<img src ="https://github.com/MarioCarlosChita/ui-transiction-app-design/blob/main/assets/wallet-list.png"
+ width = "320">
+
+
+
+
