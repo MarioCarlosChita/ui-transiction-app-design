@@ -1,4 +1,4 @@
-# Home Screen
+# Bank Ui App
 
 ## UI bank App from dribble
 this is a simple ui project with some cool animation of expanding the items. the ui was copied from dribble.  feel free to contribute, to fork and to sugest.thanks
